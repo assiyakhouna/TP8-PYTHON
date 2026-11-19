@@ -1,0 +1,10 @@
+[2026-11-19 20:37:55.888436] Début du traitement.
+[2026-11-19 20:37:55.889434] Erreur de traitement : 'operation'
+[2026-11-19 20:37:55.889434] Erreur détectée : KeyError — 'operation'
+[2026-11-19 20:45:59.745599] Début du traitement.
+[2026-11-19 20:45:59.745599] Opération exécutée : Ajouter un client
+[2026-11-19 20:45:59.746598] Opération exécutée : Modifier un produit
+[2026-11-19 20:45:59.746598] Opération exécutée : Supprimer une commande
+[2026-11-19 20:45:59.747106] Opération exécutée : Créer une facture
+[2026-11-19 20:45:59.747106] Opération exécutée : Envoyer un email
+[2026-11-19 20:45:59.747106] Fin du traitement avec succès.
